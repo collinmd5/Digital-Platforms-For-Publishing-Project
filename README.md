@@ -19,5 +19,5 @@ h1 {color: black;}
 Studying the publishing industry both independently and academically has been a crucial part in preparing myself to begin my professional journey with writing. Because the industry is ever-changing, understanding the history and all of the moving parts surrounding publishing is important to the success of a writer. I actively focus on researching and understanding the “do’s and don’ts” of both digital and print publishing. This is including but not limited to recognizing and comparing the publishing process as well as the individual rights of the writer themselves. With the heavy work of my research behind me, I have successfully begun my writing process. My ultimate goal is to traditionally print-publish, while independently digital publishing on the side. I find that to be the perfect balance of structure and freedom.
 <a href="Project Reflection.html">Project Reflection</a>
 <footer>
-<a href="file:///Users/collindueno/Downloads/https-collinmd5githubio-digital-platforms-for-publishing-projecthtml-report.html"> Accessibility Audit </a> 
+<a href="https-collinmd5githubio-digital-platforms-for-publishing-projecthtml-report.html"> Accessibility Audit </a> 
 </footer>
